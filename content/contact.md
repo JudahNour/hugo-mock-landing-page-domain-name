@@ -8,4 +8,6 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+Email me at <judahn@seas.upenn.edu>
+
+Connect with me on Linkedin at <https://www.linkedin.com/in/judahn/>

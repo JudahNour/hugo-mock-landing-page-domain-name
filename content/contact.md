@@ -7,6 +7,7 @@ menu:
 ---
 
 # Contact
+[Open an issue](https://github.com/JudahNour/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
 
 Email me at <judahn@seas.upenn.edu>
 

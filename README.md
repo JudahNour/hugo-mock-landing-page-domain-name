@@ -1,5 +1,5 @@
 # hugo-mock-landing-page-domain-name
-Mock landing page for the fake product "SpeedrunSplits." This was done for Homework 1 of CIS 3500 at Penn
+Mock landing page for the fake product "SpeedrunSplits." This was done for Homework 2 of CIS 3500 at Penn
 
 ## Workflow Description
 This project is automatically built and deployed to GitHub Pages using a GitHub Actions workflow. The workflow is triggered on pushes to the `main` branch and performs the following steps:
